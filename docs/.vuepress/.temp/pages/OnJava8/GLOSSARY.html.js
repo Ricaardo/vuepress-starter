@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-7b4af3aa\",\"path\":\"/OnJava8/GLOSSARY.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"词汇表\",\"slug\":\"词汇表\",\"link\":\"#词汇表\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"OnJava8/GLOSSARY.md\"}")

@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-2edbd9bc\",\"path\":\"/GLOSSARY.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"词汇表\",\"slug\":\"词汇表\",\"link\":\"#词汇表\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"GLOSSARY.md\"}")

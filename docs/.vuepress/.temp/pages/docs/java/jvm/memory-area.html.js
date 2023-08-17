@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-50fe1a80\",\"path\":\"/docs/java/jvm/memory-area.html\",\"title\":\"Java 内存区域详解\",\"lang\":\"en-US\",\"frontmatter\":{\"category\":\"Java\",\"tag\":[\"JVM\"]},\"headers\":[{\"level\":2,\"title\":\"写在前面 (常见面试题)\",\"slug\":\"写在前面-常见面试题\",\"link\":\"#写在前面-常见面试题\",\"children\":[{\"level\":3,\"title\":\"基本问题\",\"slug\":\"基本问题\",\"link\":\"#基本问题\",\"children\":[]},{\"level\":3,\"title\":\"拓展问题\",\"slug\":\"拓展问题\",\"link\":\"#拓展问题\",\"children\":[]}]},{\"level\":2,\"title\":\"一 概述\",\"slug\":\"一-概述\",\"link\":\"#一-概述\",\"children\":[]},{\"level\":2,\"title\":\"二 运行时数据区域\",\"slug\":\"二-运行时数据区域\",\"link\":\"#二-运行时数据区域\",\"children\":[{\"level\":3,\"title\":\"2.1 程序计数器\",\"slug\":\"_2-1-程序计数器\",\"link\":\"#_2-1-程序计数器\",\"children\":[]},{\"level\":3,\"title\":\"2.2 Java 虚拟机栈\",\"slug\":\"_2-2-java-虚拟机栈\",\"link\":\"#_2-2-java-虚拟机栈\",\"children\":[]},{\"level\":3,\"title\":\"2.3 本地方法栈\",\"slug\":\"_2-3-本地方法栈\",\"link\":\"#_2-3-本地方法栈\",\"children\":[]},{\"level\":3,\"title\":\"2.4 堆\",\"slug\":\"_2-4-堆\",\"link\":\"#_2-4-堆\",\"children\":[]},{\"level\":3,\"title\":\"2.5 方法区\",\"slug\":\"_2-5-方法区\",\"link\":\"#_2-5-方法区\",\"children\":[]},{\"level\":3,\"title\":\"2.6 运行时常量池\",\"slug\":\"_2-6-运行时常量池\",\"link\":\"#_2-6-运行时常量池\",\"children\":[]},{\"level\":3,\"title\":\"2.7 直接内存\",\"slug\":\"_2-7-直接内存\",\"link\":\"#_2-7-直接内存\",\"children\":[]}]},{\"level\":2,\"title\":\"三 HotSpot 虚拟机对象探秘\",\"slug\":\"三-hotspot-虚拟机对象探秘\",\"link\":\"#三-hotspot-虚拟机对象探秘\",\"children\":[{\"level\":3,\"title\":\"3.1 对象的创建\",\"slug\":\"_3-1-对象的创建\",\"link\":\"#_3-1-对象的创建\",\"children\":[]},{\"level\":3,\"title\":\"3.2 对象的内存布局\",\"slug\":\"_3-2-对象的内存布局\",\"link\":\"#_3-2-对象的内存布局\",\"children\":[]},{\"level\":3,\"title\":\"3.3 对象的访问定位\",\"slug\":\"_3-3-对象的访问定位\",\"link\":\"#_3-3-对象的访问定位\",\"children\":[]}]},{\"level\":2,\"title\":\"四 重点补充内容\",\"slug\":\"四-重点补充内容\",\"link\":\"#四-重点补充内容\",\"children\":[{\"level\":3,\"title\":\"4.1 字符串常量池常见问题\",\"slug\":\"_4-1-字符串常量池常见问题\",\"link\":\"#_4-1-字符串常量池常见问题\",\"children\":[]},{\"level\":3,\"title\":\"4.2 String s1 = new String(\\\"abc\\\");这句话创建了几个字符串对象？\",\"slug\":\"_4-2-string-s1-new-string-abc-这句话创建了几个字符串对象\",\"link\":\"#_4-2-string-s1-new-string-abc-这句话创建了几个字符串对象\",\"children\":[]},{\"level\":3,\"title\":\"4.3 8 种基本类型的包装类和常量池\",\"slug\":\"_4-3-8-种基本类型的包装类和常量池\",\"link\":\"#_4-3-8-种基本类型的包装类和常量池\",\"children\":[]}]},{\"level\":2,\"title\":\"参考\",\"slug\":\"参考\",\"link\":\"#参考\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"docs/java/jvm/memory-area.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

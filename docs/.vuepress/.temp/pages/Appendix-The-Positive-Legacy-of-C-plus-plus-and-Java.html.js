@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-1852cbb8\",\"path\":\"/Appendix-The-Positive-Legacy-of-C-plus-plus-and-Java.html\",\"title\":\"附录:C++和Java的优良传统\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"Appendix-The-Positive-Legacy-of-C-plus-plus-and-Java.md\"}")

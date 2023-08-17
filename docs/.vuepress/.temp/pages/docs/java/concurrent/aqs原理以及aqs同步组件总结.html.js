@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-e84bdbc4\",\"path\":\"/docs/java/concurrent/aqs%E5%8E%9F%E7%90%86%E4%BB%A5%E5%8F%8Aaqs%E5%90%8C%E6%AD%A5%E7%BB%84%E4%BB%B6%E6%80%BB%E7%BB%93.html\",\"title\":\"AQS 原理以及 AQS 同步组件总结\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"AQS 原理以及 AQS 同步组件总结\",\"category\":\"Java\",\"tag\":[\"Java并发\"]},\"headers\":[{\"level\":2,\"title\":\"AQS 简单介绍\",\"slug\":\"aqs-简单介绍\",\"link\":\"#aqs-简单介绍\",\"children\":[]},{\"level\":2,\"title\":\"AQS 原理\",\"slug\":\"aqs-原理\",\"link\":\"#aqs-原理\",\"children\":[{\"level\":3,\"title\":\"AQS 原理概览\",\"slug\":\"aqs-原理概览\",\"link\":\"#aqs-原理概览\",\"children\":[]},{\"level\":3,\"title\":\"AQS 对资源的共享方式\",\"slug\":\"aqs-对资源的共享方式\",\"link\":\"#aqs-对资源的共享方式\",\"children\":[]},{\"level\":3,\"title\":\"AQS 底层使用了模板方法模式\",\"slug\":\"aqs-底层使用了模板方法模式\",\"link\":\"#aqs-底层使用了模板方法模式\",\"children\":[]}]},{\"level\":2,\"title\":\"Semaphore(信号量)\",\"slug\":\"semaphore-信号量\",\"link\":\"#semaphore-信号量\",\"children\":[]},{\"level\":2,\"title\":\"CountDownLatch （倒计时器）\",\"slug\":\"countdownlatch-倒计时器\",\"link\":\"#countdownlatch-倒计时器\",\"children\":[{\"level\":3,\"title\":\"CountDownLatch 的两种典型用法\",\"slug\":\"countdownlatch-的两种典型用法\",\"link\":\"#countdownlatch-的两种典型用法\",\"children\":[]},{\"level\":3,\"title\":\"CountDownLatch 的使用示例\",\"slug\":\"countdownlatch-的使用示例\",\"link\":\"#countdownlatch-的使用示例\",\"children\":[]},{\"level\":3,\"title\":\"CountDownLatch 的不足\",\"slug\":\"countdownlatch-的不足\",\"link\":\"#countdownlatch-的不足\",\"children\":[]},{\"level\":3,\"title\":\"CountDownLatch 相常见面试题\",\"slug\":\"countdownlatch-相常见面试题\",\"link\":\"#countdownlatch-相常见面试题\",\"children\":[]}]},{\"level\":2,\"title\":\"CyclicBarrier(循环栅栏)\",\"slug\":\"cyclicbarrier-循环栅栏\",\"link\":\"#cyclicbarrier-循环栅栏\",\"children\":[{\"level\":3,\"title\":\"CyclicBarrier 的应用场景\",\"slug\":\"cyclicbarrier-的应用场景\",\"link\":\"#cyclicbarrier-的应用场景\",\"children\":[]},{\"level\":3,\"title\":\"CyclicBarrier 的使用示例\",\"slug\":\"cyclicbarrier-的使用示例\",\"link\":\"#cyclicbarrier-的使用示例\",\"children\":[]},{\"level\":3,\"title\":\"CyclicBarrier 源码分析\",\"slug\":\"cyclicbarrier-源码分析\",\"link\":\"#cyclicbarrier-源码分析\",\"children\":[]},{\"level\":3,\"title\":\"CyclicBarrier 和 CountDownLatch 的区别\",\"slug\":\"cyclicbarrier-和-countdownlatch-的区别\",\"link\":\"#cyclicbarrier-和-countdownlatch-的区别\",\"children\":[]},{\"level\":3,\"title\":\"ReentrantLock 和 ReentrantReadWriteLock\",\"slug\":\"reentrantlock-和-reentrantreadwritelock\",\"link\":\"#reentrantlock-和-reentrantreadwritelock\",\"children\":[]}]}],\"git\":{},\"filePathRelative\":\"docs/java/concurrent/aqs原理以及aqs同步组件总结.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

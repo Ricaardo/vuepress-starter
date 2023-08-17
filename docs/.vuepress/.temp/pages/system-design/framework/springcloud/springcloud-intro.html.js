@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-61050db6\",\"path\":\"/system-design/framework/springcloud/springcloud-intro.html\",\"title\":\"Spring Cloud 入门\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"什么是Spring Cloud\",\"slug\":\"什么是spring-cloud\",\"link\":\"#什么是spring-cloud\",\"children\":[]},{\"level\":2,\"title\":\"Spring Cloud 的版本\",\"slug\":\"spring-cloud-的版本\",\"link\":\"#spring-cloud-的版本\",\"children\":[]},{\"level\":2,\"title\":\"Spring Cloud 的服务发现框架——Eureka\",\"slug\":\"spring-cloud-的服务发现框架——eureka\",\"link\":\"#spring-cloud-的服务发现框架——eureka\",\"children\":[]},{\"level\":2,\"title\":\"负载均衡之 Ribbon\",\"slug\":\"负载均衡之-ribbon\",\"link\":\"#负载均衡之-ribbon\",\"children\":[{\"level\":3,\"title\":\"什么是 RestTemplate?\",\"slug\":\"什么是-resttemplate\",\"link\":\"#什么是-resttemplate\",\"children\":[]},{\"level\":3,\"title\":\"为什么需要 Ribbon？\",\"slug\":\"为什么需要-ribbon\",\"link\":\"#为什么需要-ribbon\",\"children\":[]},{\"level\":3,\"title\":\"Nginx 和 Ribbon 的对比\",\"slug\":\"nginx-和-ribbon-的对比\",\"link\":\"#nginx-和-ribbon-的对比\",\"children\":[]},{\"level\":3,\"title\":\"Ribbon 的几种负载均衡算法\",\"slug\":\"ribbon-的几种负载均衡算法\",\"link\":\"#ribbon-的几种负载均衡算法\",\"children\":[]}]},{\"level\":2,\"title\":\"什么是 Open Feign\",\"slug\":\"什么是-open-feign\",\"link\":\"#什么是-open-feign\",\"children\":[]},{\"level\":2,\"title\":\"必不可少的 Hystrix\",\"slug\":\"必不可少的-hystrix\",\"link\":\"#必不可少的-hystrix\",\"children\":[{\"level\":3,\"title\":\"什么是 Hystrix之熔断和降级\",\"slug\":\"什么是-hystrix之熔断和降级\",\"link\":\"#什么是-hystrix之熔断和降级\",\"children\":[]},{\"level\":3,\"title\":\"什么是Hystrix之其他\",\"slug\":\"什么是hystrix之其他\",\"link\":\"#什么是hystrix之其他\",\"children\":[]}]},{\"level\":2,\"title\":\"微服务网关——Zuul\",\"slug\":\"微服务网关——zuul\",\"link\":\"#微服务网关——zuul\",\"children\":[{\"level\":3,\"title\":\"Zuul 的路由功能\",\"slug\":\"zuul-的路由功能\",\"link\":\"#zuul-的路由功能\",\"children\":[]},{\"level\":3,\"title\":\"Zuul 的过滤功能\",\"slug\":\"zuul-的过滤功能\",\"link\":\"#zuul-的过滤功能\",\"children\":[]},{\"level\":3,\"title\":\"关于 Zuul  的其他\",\"slug\":\"关于-zuul-的其他\",\"link\":\"#关于-zuul-的其他\",\"children\":[]},{\"level\":3,\"title\":\"为什么要使用进行配置管理？\",\"slug\":\"为什么要使用进行配置管理\",\"link\":\"#为什么要使用进行配置管理\",\"children\":[]},{\"level\":3,\"title\":\"Config 是什么\",\"slug\":\"config-是什么\",\"link\":\"#config-是什么\",\"children\":[]}]},{\"level\":2,\"title\":\"引出 Spring Cloud Bus\",\"slug\":\"引出-spring-cloud-bus\",\"link\":\"#引出-spring-cloud-bus\",\"children\":[]},{\"level\":2,\"title\":\"总结\",\"slug\":\"总结\",\"link\":\"#总结\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"system-design/framework/springcloud/springcloud-intro.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

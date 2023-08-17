@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-2b84d805\",\"path\":\"/java/concurrent/reentrantlock.html\",\"title\":\"从ReentrantLock的实现看AQS的原理及应用\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"从ReentrantLock的实现看AQS的原理及应用\",\"category\":\"Java\",\"tag\":[\"Java并发\"]},\"headers\":[{\"level\":2,\"title\":\"前言\",\"slug\":\"前言\",\"link\":\"#前言\",\"children\":[]},{\"level\":2,\"title\":\"1 ReentrantLock\",\"slug\":\"_1-reentrantlock\",\"link\":\"#_1-reentrantlock\",\"children\":[{\"level\":3,\"title\":\"1.1 ReentrantLock特性概览\",\"slug\":\"_1-1-reentrantlock特性概览\",\"link\":\"#_1-1-reentrantlock特性概览\",\"children\":[]},{\"level\":3,\"title\":\"1.2 ReentrantLock与AQS的关联\",\"slug\":\"_1-2-reentrantlock与aqs的关联\",\"link\":\"#_1-2-reentrantlock与aqs的关联\",\"children\":[]}]},{\"level\":2,\"title\":\"2 AQS\",\"slug\":\"_2-aqs\",\"link\":\"#_2-aqs\",\"children\":[{\"level\":3,\"title\":\"2.1 原理概览\",\"slug\":\"_2-1-原理概览\",\"link\":\"#_2-1-原理概览\",\"children\":[]}]},{\"level\":2,\"title\":\"2.2 AQS重要方法与ReentrantLock的关联\",\"slug\":\"_2-2-aqs重要方法与reentrantlock的关联\",\"link\":\"#_2-2-aqs重要方法与reentrantlock的关联\",\"children\":[]},{\"level\":2,\"title\":\"2.3 通过ReentrantLock理解AQS\",\"slug\":\"_2-3-通过reentrantlock理解aqs\",\"link\":\"#_2-3-通过reentrantlock理解aqs\",\"children\":[{\"level\":3,\"title\":\"2.3.1 线程加入等待队列\",\"slug\":\"_2-3-1-线程加入等待队列\",\"link\":\"#_2-3-1-线程加入等待队列\",\"children\":[]},{\"level\":3,\"title\":\"2.3.2 CANCELLED状态节点生成\",\"slug\":\"_2-3-2-cancelled状态节点生成\",\"link\":\"#_2-3-2-cancelled状态节点生成\",\"children\":[]},{\"level\":3,\"title\":\"2.3.3 如何解锁\",\"slug\":\"_2-3-3-如何解锁\",\"link\":\"#_2-3-3-如何解锁\",\"children\":[]},{\"level\":3,\"title\":\"2.3.4 中断恢复后的执行流程\",\"slug\":\"_2-3-4-中断恢复后的执行流程\",\"link\":\"#_2-3-4-中断恢复后的执行流程\",\"children\":[]},{\"level\":3,\"title\":\"2.3.5 小结\",\"slug\":\"_2-3-5-小结\",\"link\":\"#_2-3-5-小结\",\"children\":[]}]},{\"level\":2,\"title\":\"3 AQS应用\",\"slug\":\"_3-aqs应用\",\"link\":\"#_3-aqs应用\",\"children\":[{\"level\":3,\"title\":\"3.1 ReentrantLock的可重入应用\",\"slug\":\"_3-1-reentrantlock的可重入应用\",\"link\":\"#_3-1-reentrantlock的可重入应用\",\"children\":[]},{\"level\":3,\"title\":\"3.2 JUC中的应用场景\",\"slug\":\"_3-2-juc中的应用场景\",\"link\":\"#_3-2-juc中的应用场景\",\"children\":[]},{\"level\":3,\"title\":\"3.3 自定义同步工具\",\"slug\":\"_3-3-自定义同步工具\",\"link\":\"#_3-3-自定义同步工具\",\"children\":[]}]},{\"level\":2,\"title\":\"总结\",\"slug\":\"总结\",\"link\":\"#总结\",\"children\":[]},{\"level\":2,\"title\":\"参考资料\",\"slug\":\"参考资料\",\"link\":\"#参考资料\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"java/concurrent/reentrantlock.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
